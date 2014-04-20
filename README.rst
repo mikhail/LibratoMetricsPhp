@@ -7,6 +7,7 @@ Example
 -------
 
 .. code-block:: php
+
     <?php
     require_once 'class.metrics.php';
 
